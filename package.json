@@ -2,13 +2,31 @@
   "name": "gabriel",
   "displayName": "Gabriel's Theme",
   "description": "Gabriel's personal color theme",
-  "version": "0.0.1",
+  "publisher": "gantoreno",
+  "version": "0.1.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gantoreno/vscode-gabriel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gantoreno/vscode-gabriel/issues",
+    "email": "gantoreno@gmail.com"
+  },
+  "keywords": [
+    "theme",
+    "gabriel",
+    "dark",
+    "light",
+    "italics"
+  ],
+  "icon": "assets/icon.png",
   "contributes": {
     "themes": [
       {
