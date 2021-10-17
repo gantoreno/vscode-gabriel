@@ -1,6 +1,6 @@
-<center>
+<p align="center>
   <img src="assets/icon.png" height="150">
-</center>
+</p>
 
 # VSCode Gabriel
 
@@ -8,9 +8,9 @@
 
 Gabriel's (me) personal VSCode theme, a combination of dark & light themes fully made to be easy in the eyes, with soft tone transitions, the right amount of contrast, and most importantly, a 10/10 readability. This theme focuses highly on productivity & aesthetics, to code out in the light, or stay at your cave in the dark.
 
-<center>
+<p align="center">
   <img src=".github/screenshot.png" />
-</center>
+</p>
 
 ## Install
 
