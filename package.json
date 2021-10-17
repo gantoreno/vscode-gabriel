@@ -1,0 +1,36 @@
+{
+  "name": "gabriel",
+  "displayName": "Gabriel's Theme",
+  "description": "Gabriel's personal color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gabriel (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gabriel-dark.json"
+      },
+      {
+        "label": "Gabriel (Dark Italic)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gabriel-dark-italic.json"
+      },
+      {
+        "label": "Gabriel (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/gabriel-light.json"
+      },
+      {
+        "label": "Gabriel (Light Italic)",
+        "uiTheme": "vs",
+        "path": "./themes/gabriel-light-italic.json"
+      }
+    ]
+  }
+}
