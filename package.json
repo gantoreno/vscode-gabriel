@@ -3,7 +3,7 @@
   "displayName": "Gabriel's Theme",
   "description": "Gabriel's personal color theme",
   "publisher": "gantoreno",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
@@ -50,5 +50,11 @@
         "path": "./themes/gabriel-light-italic.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "baeed023-03c2-4f18-a8ad-5d2e0d461f27",
+    "publisherId": "0df2ff41-99a9-4a9e-81b4-2fee8ec32012",
+    "publisherDisplayName": "Gabriel Moreno",
+    "installedTimestamp": 1634508876062
   }
 }
