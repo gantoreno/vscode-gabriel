@@ -276,7 +276,7 @@
       }
     },
     {
-      "scope": "keyword.operator",
+      "scope": ["keyword.operator", "storage.type.function.arrow"],
       "settings": {
         "foreground": "#ac616a",
         "fontStyle": ""
