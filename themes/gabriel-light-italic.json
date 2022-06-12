@@ -65,6 +65,7 @@
     "editorLineNumber.foreground": "#a0a0a0",
     "editorOverviewRuler.border": "#fafafa",
     "editorOverviewRuler.errorForeground": "#ac616a",
+    "editorRuler.foreground": "#cfcfcf",
     "minimap.selectionHighlight": "#50505022",
     "editorWhitespace.foreground": "#a0a0a0",
     "editorWidget.background": "#fafafa",
