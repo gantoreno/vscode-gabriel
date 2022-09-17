@@ -71,6 +71,7 @@
     "editorWhitespace.foreground": "#505050",
     "editorWidget.background": "#0d0d0d",
     "editorWidget.border": "#d0d0d0",
+    "editorHoverWidget.border": "#272727",
     "errorForeground": "#ac616a",
     "errorLens.errorBackground": "#ac616a33",
     "errorLens.errorBackgroundLight": "#b3646e33",
