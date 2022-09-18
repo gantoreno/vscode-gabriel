@@ -67,6 +67,7 @@
     "editorOverviewRuler.border": "#0d0d0d",
     "editorOverviewRuler.errorForeground": "#ac616a",
     "editorRuler.foreground": "#2d2d2d",
+    "editorSuggestWidget.border": "#272727",
     "minimap.selectionHighlight": "#202020",
     "editorWhitespace.foreground": "#505050",
     "editorWidget.background": "#0d0d0d",
