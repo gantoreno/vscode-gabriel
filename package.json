@@ -3,7 +3,7 @@
   "displayName": "Gabriel's Theme",
   "description": "Gabriel's personal color theme",
   "publisher": "gantoreno",
-  "version": "0.7.6",
+  "version": "0.8.0",
   "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
@@ -33,6 +33,11 @@
         "label": "Gabriel (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/gabriel-dark.json"
+      },
+      {
+        "label": "Gabriel (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/gabriel-light.json"
       }
     ]
   },
