@@ -21,6 +21,8 @@
     "button.secondaryBackground": "#222222",
     "button.secondaryForeground": "#bbbbbb",
     "button.secondaryHoverBackground": "#333333",
+    "commandCenter.background": "#222222",
+    "commandCenter.activeBackground": "#333333",
     "checkbox.background": "#111111",
     "checkbox.border": "#333333",
     "debugToolBar.background": "#111111",
