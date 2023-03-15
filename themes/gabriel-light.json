@@ -517,6 +517,12 @@
       }
     },
     {
+      "scope": "meta.export.default",
+      "settings": {
+        "foreground": "#000000"
+      }
+    },
+    {
       "scope": [
         "brackethighlighter.tag",
         "brackethighlighter.curly",

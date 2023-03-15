@@ -256,6 +256,12 @@
       }
     },
     {
+      "scope": "meta.export.default",
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
       "scope": "entity.name.function",
       "settings": {
         "foreground": "#8888bb"
