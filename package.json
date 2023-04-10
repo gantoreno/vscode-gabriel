@@ -3,7 +3,7 @@
   "displayName": "Gabriel's Theme",
   "description": "Gabriel's personal color theme",
   "publisher": "gantoreno",
-  "version": "0.10.2",
+  "version": "0.11.0",
   "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"

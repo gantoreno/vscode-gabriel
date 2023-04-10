@@ -6,7 +6,7 @@
     "activityBar.background": "#111111",
     "activityBar.border": "#33333300",
     "activityBar.foreground": "#ffffff",
-    "activityBar.inactiveForeground": "#777777",
+    "activityBar.inactiveForeground": "#999999",
     "activityBarBadge.background": "#ffffff",
     "activityBarBadge.foreground": "#111111",
     "badge.background": "#ffffff",
@@ -64,12 +64,12 @@
     "editorInlayHint.background": "#222222",
     "editorInlayHint.foreground": "#bbbbbb",
     "editorLineNumber.activeForeground": "#bbbbbb",
-    "editorLineNumber.foreground": "#777777",
+    "editorLineNumber.foreground": "#999999",
     "editorOverviewRuler.border": "#111111",
     "editorOverviewRuler.errorForeground": "#aa6666",
     "editorRuler.foreground": "#333333",
     "minimap.selectionHighlight": "#222222",
-    "editorWhitespace.foreground": "#777777",
+    "editorWhitespace.foreground": "#999999",
     "editorWidget.background": "#111111",
     "editorWidget.border": "#333333",
     "errorForeground": "#aa6666",
@@ -94,7 +94,7 @@
     "gitDecoration.addedResourceForeground": "#99bb88",
     "gitDecoration.conflictingResourceForeground": "#ccaa66",
     "gitDecoration.deletedResourceForeground": "#aa6666",
-    "gitDecoration.ignoredResourceForeground": "#777777",
+    "gitDecoration.ignoredResourceForeground": "#999999",
     "gitDecoration.modifiedResourceForeground": "#ccaa66",
     "gitDecoration.submoduleResourceForeground": "#ffffff",
     "gitDecoration.untrackedResourceForeground": "#99bb88",
@@ -210,7 +210,7 @@
     {
       "scope": ["comment", "punctuation.definition.comment", "string.comment"],
       "settings": {
-        "foreground": "#777777"
+        "foreground": "#999999"
       }
     },
     {
@@ -493,7 +493,7 @@
     {
       "scope": ["markup.ignored", "markup.untracked"],
       "settings": {
-        "foreground": "#777777"
+        "foreground": "#999999"
       }
     },
     {
